@@ -43,3 +43,7 @@ Models evaluated:
 Random Forest:
 - MSE: 0.001119
 - R² Score: 0.266
+
+-<img width="562" height="396" alt="model_comparison(wo)" src="https://github.com/user-attachments/assets/ba2d9e22-1f0f-4808-a919-7d78aa426d90" />
+- <img width="853" height="533" alt="model_comparison" src="https://github.com/user-attachments/assets/0f4f929a-808d-44b5-9631-d84c67004510" />
+
