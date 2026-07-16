@@ -112,8 +112,9 @@ Example evaluation:
 ## Author
 
 Nur Sahira Batrisyia  
-As part of group project
+As part of group project,
 WIA1006: Machine Learning
+
 Bachelor of Computer Science (Artificial Intelligence)  
 Universiti Malaya
 
