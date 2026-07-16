@@ -3,7 +3,6 @@
 ## Overview
 
 This project develops a machine learning pipeline to predict agricultural crop production using Malaysian agricultural and climate datasets.
-
 The objective of this project is to explore how machine learning techniques can be applied to estimate crop yield based on historical production data and environmental factors such as temperature, rainfall, humidity, and cultivation area.
 
 This project demonstrates the complete machine learning workflow, including data preprocessing, feature engineering, model development, evaluation, and optimisation.
@@ -69,7 +68,6 @@ The following regression models were trained and evaluated:
 Hyperparameter tuning was performed using:
 
 - GridSearchCV
-
 to improve model performance and identify optimal parameters.
 
 ---
